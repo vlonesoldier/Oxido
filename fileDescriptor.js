@@ -2,8 +2,8 @@ const fs = require('node:fs');
 
 class FileDescriptor {
     constructor(fileToOpen, fileToWrite) {
-        this.fileToOpen = fileToOpen ? fileToOpen : './text_for_article.txt'
-        this.fileToWrite = fileToWrite ? fileToWrite : './artykul.html'
+        this.fileToOpen = fileToOpen
+        this.fileToWrite = fileToWrite
     }
 
     getDataFromFile() {

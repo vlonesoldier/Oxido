@@ -2,7 +2,7 @@
   "name": "oxido",
   "version": "1.0.0",
   "description": "Recruitment Task",
-  "main": "revampDoc.js",
+  "main": "index.js",
   "repository": "https://github.com/vlonesoldier/Oxido.git",
   "author": "vlonewulf",
   "license": "MIT",
