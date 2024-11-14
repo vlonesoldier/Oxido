@@ -1,0 +1,13 @@
+{
+  "name": "oxido",
+  "version": "1.0.0",
+  "description": "Recruitment Task",
+  "main": "revampDoc.js",
+  "repository": "https://github.com/vlonesoldier/Oxido.git",
+  "author": "vlonewulf",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.72.0"
+  }
+}
